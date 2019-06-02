@@ -1,0 +1,16 @@
+table td
+{
+	border: 1px solid black;
+	padding: 2px;
+}
+
+.container
+{
+	width: 70vw;
+	margin: 0 auto;
+}
+#wrap
+{
+	display: flex;
+	justify-content: space-around;
+}
